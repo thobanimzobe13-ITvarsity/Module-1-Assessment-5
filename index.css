@@ -25,3 +25,10 @@
     position: absolute;
     left: 10%;
 }
+
+@media screen and (max-width:500px){
+    #menu img {
+        height: 4vh;
+
+    }
+}
